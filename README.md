@@ -2,6 +2,9 @@
 
 Autoplay - tool for mobile automation testing like "usual" tools like appium, seetest, etc. But with one big different, AutoPlay can automate Unreal Engine, Unity applications using Selenium.
 
+Contact: autoplay.automation@gmail.com
+YouTube: [link](https://www.youtube.com/channel/UCPcmYGu6pLjxujNuLI9KVtg)
+
 # Prepare environment!
 
 ## Android 
@@ -19,4 +22,13 @@ Note: After connect iOS device first time – run xCode to link symbols for you 
 # Start Using AutoPlay
 
  - Connect device with USB cable. (Make sure USB debugging activated and allowed for Android, And "Trust" for iOS activated)
- - 
+ - Run AutoPlay (use shortcut "Run_Win_Autoplay.bat" for win or “Run_Mac_Autoplay” for mac)
+ - Select platform iOS or Android
+ - Open device selector and select device
+ ![enter image description here](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/main.png)
+ - Select Application file (with plugin) ([UE_PLUGIN](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin))
+ - Click start and then click inspector button
+ - Wait for game install/run
+ - Inspector should be opened. Of course if everything is ok ;)
+![enter image description here](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/inspector.png)
+
