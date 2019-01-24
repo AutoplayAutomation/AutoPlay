@@ -1,0 +1,7 @@
+#!/bin/sh
+AUTOPLAYJAR="$(dirname "$0")"/autoplay.full.jar
+if [ -n "$JAVA_HOME" ]; then
+  $JAVA_HOME/bin/java -jar "$AUTOPLAYJAR" "$@"
+else
+  java -jar "$AUTOPLAYJAR" "$@"
+fi
