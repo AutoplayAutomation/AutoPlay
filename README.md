@@ -32,3 +32,6 @@ Note: After connect iOS device first time – run xCode to link symbols for you 
  - Inspector should be opened. Of course if everything is ok ;)
 ![enter image description here](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/inspector.png)
 
+# Selenium tests
+
+Guide for Selenium tests: [link](https://github.com/AutoplayAutomation/Autoplay_Samples)
