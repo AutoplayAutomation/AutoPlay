@@ -26,7 +26,7 @@ Note: After connect iOS device first time – run xCode to link symbols for you 
  - Select platform iOS or Android
  - Open device selector and select device
  ![enter image description here](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/main.png)
- - Select Application file (with plugin) ([UE_PLUGIN](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin))
+ - Select Application file (with plugin) ([UE_PLUGIN](https://github.com/AutoplayAutomation/UE4_AutoPlay_Plugin)) ([Unity_PLUGIN](https://github.com/AutoplayAutomation/Unity_AutoPlay_Plugin))
  - Click start and then click inspector button
  - Wait for game install/run
  - Inspector should be opened. Of course if everything is ok ;)
