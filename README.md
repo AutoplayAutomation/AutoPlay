@@ -1,23 +1,13 @@
 # Getting Started with AutoPlay
 
-Autoplay - tool for mobile automation testing like "usual" tools like appium, seetest, etc. But with one big different, AutoPlay can automate Unreal Engine, Unity applications using Selenium.
+Welcome to the AutoPlay wiki!
+
+AutoPlay - the tool for mobile game automation testing like "usual" tools: Appium, SeeTest, etc. But with one big difference, AutoPlay can automate Unreal Engine, Unity applications.
 
 Contact: autoplay.automation@gmail.com
 YouTube: [link](https://www.youtube.com/channel/UCPcmYGu6pLjxujNuLI9KVtg)
 
-# Prepare environment!
-
-## Android 
-
- -  Setup you env and android from Unreal Engine [guide](https://docs.unrealengine.com/en-us/Platforms/Android/GettingStarted)
--  Make sure JDK is installed and added to you PATH. Just try execute "*adb*" in console. (You should achieve it in previous step).If AutoPlay not find any local install of Android SDK, he will try to use embedded version from AutoPlay/ThirdParty folder.
-
-## IOS
-- Install xCode and run it first time
-- Install usbmuxd - in terminal "*brew install usbmuxd*"
-- Install ios-deploy lib. How to install read [this](https://github.com/ios-control/ios-deploy).
-
-Note: After connect iOS device first time – run xCode to link symbols for you device. (to avoid problems with ios-deploy)
+Documentation: [wiki](https://github.com/AutoplayAutomation/AutoPlay/wiki)
 
 # Start Using AutoPlay
 
@@ -32,6 +22,6 @@ Note: After connect iOS device first time – run xCode to link symbols for you 
  - Inspector should be opened. Of course if everything is ok ;)
 ![enter image description here](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/inspector.png)
 
-# Selenium tests
+Now you can start write Selenium tests =)
 
-Guide for Selenium tests: [link](https://github.com/AutoplayAutomation/Autoplay_Samples)
+![sample](https://github.com/AutoplayAutomation/AutoPlay/blob/master/Documentation/img/ezgif-2-84a822634122.gif)
