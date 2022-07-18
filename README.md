@@ -1,6 +1,6 @@
 # Getting Started with AutoPlay
 
-AutoPlay - the tool for mobile game automation testing like "usual" tools: Appium, SeeTest, etc. But with one big difference, AutoPlay can automate Unreal Engine, Unity applications.
+AutoPlay - the tool for mobile game automation testing like "usual" tools: Appium, SeeTest, etc. But with one big difference, AutoPlay can automate Unreal Engine, Unity applications. (site: https://autoplay3d.com/ )
 
 Contact: autoplay.automation@gmail.com
 YouTube: [link](https://www.youtube.com/channel/UCPcmYGu6pLjxujNuLI9KVtg)
